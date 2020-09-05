@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "Sonali Bendre",
+      "pic" : ""    
+    },
+    {
+      "id": "2",
+      "name": "Jhumpa Lahiri",
+      "pic" : ""
+    },
+    {
+      "id" : "3",
+      "name" : "Arundhati Roy",
+      "pic" : ""
+    },
+    {
+      "id" : "4",
+      "name" : "Chetan Bhagat",
+      "pic" : ""
+    }
+  ]  
+}
