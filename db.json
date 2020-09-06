@@ -9,22 +9,22 @@
     {
       "id": "1",
       "name": "Sonali Bendre",
-      "pic" : ""    
+      "pic" : "https://metadata-static.plex.tv/people/5d77682d3c3c2a001fbcc7b6.jpg"    
     },
     {
       "id": "2",
       "name": "Jhumpa Lahiri",
-      "pic" : ""
+      "pic" : "https://miro.medium.com/fit/c/96/96/1*UgIcxYmtSrd81Wak4SNJ6A.jpeg"
     },
     {
       "id" : "3",
       "name" : "Arundhati Roy",
-      "pic" : ""
+      "pic" : "https://cdn.citatis.com/img/a/15/7669.v3.jpg"
     },
     {
       "id" : "4",
       "name" : "Chetan Bhagat",
-      "pic" : ""
+      "pic" : "https://a.wattpad.com/useravatar/ChetanBhagat1201.256.140708.jpg"
     }
   ]  
 }
