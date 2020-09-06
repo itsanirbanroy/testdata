@@ -26,5 +26,49 @@
       "name" : "Chetan Bhagat",
       "pic" : "https://a.wattpad.com/useravatar/ChetanBhagat1201.256.140708.jpg"
     }
+  ],
+  "topBooks": [
+    {
+      "id": "1",
+      "name": "The three month rule",
+      "pic" : "https://static-cse.canva.com/blob/142533/Red-and-Beige-Cute-Illustration-Young-Adult-Book-Cover.jpg"    
+    },
+    {
+      "id": "2",
+      "name": "Saint X",
+      "pic" : "https://m.media-amazon.com/images/I/41fNAQzf77L.jpg"
+    },
+    {
+      "id" : "3",
+      "name" : "The Girl with the Louding Voice",
+      "pic" : "https://m.media-amazon.com/images/I/51U8BKXUsmL.jpg"
+    },
+    {
+      "id" : "4",
+      "name" : "The Last Widow",
+      "pic" : "https://m.media-amazon.com/images/I/41lUt0RYnjL.jpg"
+    }
+  ],
+  "trendingBooks": [
+    {
+      "id": "1",
+      "name": "The Testaments",
+      "pic" : "https://images-na.ssl-images-amazon.com/images/I/41tQlCX2HbL._SX327_BO1,204,203,200_.jpg"    
+    },
+    {
+      "id": "2",
+      "name": "City of Girls",
+      "pic" : "https://images-na.ssl-images-amazon.com/images/I/51QKvajc-8L._SX325_BO1,204,203,200_.jpg"
+    },
+    {
+      "id" : "3",
+      "name" : "American Spy",
+      "pic" : "https://images-na.ssl-images-amazon.com/images/I/416OUOetrKL._SX327_BO1,204,203,200_.jpg"
+    },
+    {
+      "id" : "4",
+      "name" : "The Killer Collective",
+      "pic" : "https://images-na.ssl-images-amazon.com/images/I/414o2j+P8oL._SX331_BO1,204,203,200_.jpg"
+    }
   ]  
 }
